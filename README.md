@@ -22,3 +22,12 @@ Built With
 How to Use
 
 1. Clone the repository
+2. Install the required library
+3. Edit `sample_data.py` with your business and client details
+4. Run the script
+5. Find your generated invoice in the `output/` folder
+
+Contact email - pevindesilva@gmail.com
+
+Want a custom invoice tool for your business? Reach out!
+- GitHub: [@desilvapevin-create](https://github.com/desilvapevin-create)
